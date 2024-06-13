@@ -1,0 +1,7 @@
+﻿  math.cpp
+E:\Code\2024\test1\四则运算小程序\四则运算小程序\math.cpp(178,10): warning C4101: “answer_str”: 未引用的局部变量
+E:\Code\2024\test1\四则运算小程序\四则运算小程序\math.cpp(194,51): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  E:\Code\2024\test1\四则运算小程序\四则运算小程序\math.cpp(194,51):
+  占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+  四则运算小程序.vcxproj -> E:\Code\2024\test1\四则运算小程序\x64\Debug\四则运算小程序.exe
